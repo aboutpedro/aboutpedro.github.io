@@ -7,7 +7,7 @@ subtitle: E sobre o terrível destino que te trouxe até aqui
 Pedro Souza, 30, professor, revisor, tradutor e contador de causo. Ganho uma mesa de bar como ninguém. 
 
 - Para questões profissionais, meu e-mail é pedrosouza@outlook.com
-- Para questões pessoas, pode me encontrar no [**Telegram**](https://telegram.me/@aboutpedro)
+- Para questões pessoais, pode me encontrar no [**Telegram**](https://t.me/@aboutpedro)
 
 
 ### Currículo
