@@ -1,4 +1,10 @@
-﻿# O que restou de meu avô
+﻿layout: post
+title: O que restou de meu avô
+subtitle: além dos recortes de jornais
+cover-img: /assets/img/greenfields.jpg
+thumbnail-img: /assets/img/greenfields.png
+share-img: /assets/img/greenfields.jpg
+tags: [memórias, crônica]
 
 Nove meses atrás meu avô morreu. Uso este termo porque é um dos únicos que ainda me dão noção real de quão definitivo é o ato derradeiro de quem vive; de certo modo, “faleceu”, “se foi”, “partiu” e semelhantes não soam da mesma maneira que a conjugação verbal da morte. Talvez por isso seja de bom tom utilizá-los quando os outros perdem seus entes queridos: cada um tem seu jeito de lidar com o vácuo imediato e aterrador que surge depois do último suspiro da pessoa cuja voz ainda é audível, os risos e as brigas ainda são sensíveis, as memórias ainda em formação. Morrer é se impedir que nasçam novas memórias, afinal.
 
