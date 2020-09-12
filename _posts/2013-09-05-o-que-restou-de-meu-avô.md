@@ -2,9 +2,9 @@
 layout: post
 title: O que restou de meu avô
 subtitle: além dos recortes de jornais
-cover-img: /assets/img/greenfields.jpg
-thumbnail-img: /assets/img/greenfields.png
-share-img: /assets/img/greenfields.jpg
+cover-img: /assets/img/greenfields.jpeg
+thumbnail-img: /assets/img/greenfields.jpeg
+share-img: /assets/img/greenfields.jpeg
 tags: [memórias, crônica]
 ---
 
