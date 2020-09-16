@@ -2,9 +2,9 @@
 layout: post
 title: O dia em que roubei um Fiat Uno
 subtitle: um momento de fraqueza
-cover-img: \assets\img\fiatuno.jpeg
-thumbnail-img: \assets\img\fiatuno.jpeg
-share-img: \assets\img\fiatuno.jpeg
+cover-img: /assets/img/fiatuno.jpeg
+thumbnail-img: /assets/img/fiatuno.jpeg
+share-img: /assets/img/fiatuno.jpeg
 tags: [diálogo, conto curto]
 ---
 
