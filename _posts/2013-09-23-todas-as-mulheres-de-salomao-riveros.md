@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Todas as mulheres de Salomão Riveros
